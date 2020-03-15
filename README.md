@@ -1,9 +1,9 @@
 # QLearningDynamicProgramming
 Q-Learning and Dynamic Programming for World Grid Navigation. Reinforcement Learning experiment with insights into policy learning and hyper parameter tuning. Production QLearningDynamicProgramming module.
 
-__For usage instrution please check [Usage README](https://github.com/SamyuelDanyo/QLearningDynamicProgramming/blob/master/docs/README.txt)__
+__For usage instructions please check [Usage README](https://github.com/SamyuelDanyo/QLearningDynamicProgramming/blob/master/docs/README.txt)__
 
-__For full documentation - system design, experiemnts & findings please read [QLearningDynamicProgrammingDoc Report](https://github.com/SamyuelDanyo/QLearningDynamicProgramming/blob/master/docs/QLearningDynamicProgrammingDoc.pdf)__
+__For full documentation - system design, experiments & findings please read [QLearningDynamicProgrammingDoc Report](https://github.com/SamyuelDanyo/QLearningDynamicProgramming/blob/master/docs/QLearningDynamicProgrammingDoc.pdf)__
 
 __[GutHub Pages Format](https://samyueldanyo.github.io/q-learning-dynamic-programming/)__
 
