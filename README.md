@@ -5,6 +5,8 @@ __For usage instrution please check [Usage README](https://github.com/SamyuelDan
 
 __For full documentation - system design, experiemnts & findings please read [QLearningDynamicProgrammingDoc Report](https://github.com/SamyuelDanyo/QLearningDynamicProgramming/blob/master/docs/QLearningDynamicProgrammingDoc.pdf)__
 
+__[GutHub Pages Format](https://samyueldanyo.github.io/q-learning-dynamic-programming/)__
+
 ## Introduction
 In this report I present my implementation of the Q-Learning (**QL**) algorithm, which is from the family of Reinforcement Learning (**RL**) algorithms. The implementation is specifically designed for solving a world grid navigation problem, utilizing either QL or Dynamic Programming (**DP**). The method is a full-custom implementation in **Python**. Additionally, visualizations, performance results and analysis of a world grid navigation experiment are discussed. 
 
